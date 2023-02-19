@@ -1,0 +1,121 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    text-decoration: none;
+}
+body{
+    background-image: url(img/photos.png);
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+.shekveta{
+    width: 400px;
+    height: 70px;
+    margin: 20px auto;
+    margin-right: 150px;
+    margin-top: 100px;
+    background-color: #021010;
+    font-size: 24px;
+    color: #fff;
+    text-align: center;
+    padding-top: 15px;
+    border-radius: 10px;
+}
+.register{
+    width: 400px;
+    margin: 20px auto;
+    margin-right: 150px;
+    margin-top: 40px;
+    background-color: none;
+}
+.register input{
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+    outline: none;
+    border: none;
+    border-bottom: 1px solid rgb(255, 255, 255);
+    background-color: rgb(189, 189, 189);
+    color: #000;
+}
+.register input[ type = "submit"]{
+    background-color: #01AF8C;
+    color:#000;
+}
+.register input[ type = "checkbox"]{
+    width: 5%;
+}
+.register textarea{
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+    outline: none;
+    border: none;
+    border-bottom: 1px solid rgb(255, 255, 255);
+    background-color: rgb(189, 189, 189);
+    color: #000;
+}
+.misamarti{
+    color: #000;
+    font-size: 14px;
+    font-weight: bolder;
+    padding: 5px;
+}
+.payy{
+    color: #000;
+    font-size: 14px;
+    font-weight: bolder;
+    padding: 5px;
+    margin-top: -20px;
+    margin-bottom: 30px;
+}
+.pay{
+    margin-bottom: 10px;
+    font-size: 20px;
+    font-weight: bolder;
+}
+
+/* ----- last page style ----- */
+.last{
+    width: 500px;
+    height: 300px;
+    margin: 20px auto;
+    margin-right: 120px;
+    margin-top: 100px;
+    background-color: #021010;
+    font-size: 24px;
+    color: #fff;
+    text-align: center;
+    padding-top: 15px;
+    border-radius: 10px;
+}
+.take{
+    margin-bottom: 20px;
+    margin-top: 30px;
+}
+.time{
+    margin-bottom: 40px;
+    margin-top: 30px;
+}
+.dabali{
+    font-size: 15px;
+    margin-top: 70px;
+}
+.boloa{
+    width: 500px;
+    height: 50px;
+    margin: 20px auto;
+    margin-right: 120px;
+    margin-top: 270px;
+    background-color: #F5BA22;
+    font-size: 24px;
+    color: #000;
+    text-align: center;
+    padding-top: 15px;
+    border-radius: 10px;
+    font-size: 18px;
+}
